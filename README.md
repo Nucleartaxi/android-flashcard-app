@@ -8,7 +8,7 @@
 Flashcard app for the CodePath.org Android app development course. The app shows a question and flips to the answer when you click.
 
 ### App Walk-though
-<img src="https://imgur.com/X16AZhy" width=200><br>
+<img src="https://i.imgur.com/X16AZhy.gif" width=200><br>
 
 ## Required
 - [X] Create New Project in Android Studio

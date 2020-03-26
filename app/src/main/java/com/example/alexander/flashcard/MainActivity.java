@@ -65,6 +65,7 @@ public class MainActivity extends AppCompatActivity {
                 //try catch is for displaying text if no questions are in the database
                 try {
 
+                    //loads animations
                     final Animation leftOutAnim = AnimationUtils.loadAnimation(v.getContext(), R.anim.out_left);
                     final Animation rightInAnim = AnimationUtils.loadAnimation(v.getContext(), R.anim.right_in);
 
